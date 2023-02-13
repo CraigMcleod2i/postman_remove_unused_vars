@@ -1,2 +1,2 @@
-# postman_remove_unused_vars
-Script to remove unused env variables
+# Remove Postman unused vars
+Script to remove unused env variables from environment file
